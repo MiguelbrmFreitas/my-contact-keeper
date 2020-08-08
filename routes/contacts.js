@@ -80,12 +80,12 @@ router.put('/:id', auth, async (req, res) => {
         }
 
         contact = await Contact.findByIdAndUpdate(req.params.id, 
-        {
-            $set: contactFields
-        },
-        {
-            new: true
-        });
+            {
+                $set: contactFields
+            },
+            {
+                new: true
+            });
 
         res.json(contact);
     } catch(err) {
