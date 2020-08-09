@@ -2,7 +2,7 @@
 
 Full stack MERN contact manager with React hooks, context & JWT authentication.
 
-Code for Project 2 of Udemy course [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/learn/lecture/14969916#questions)
+Code for Project 2 of Udemy's course [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/learn/lecture/14969916#questions)
 
 ## Usage
 
